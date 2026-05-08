@@ -11,7 +11,7 @@ from pathlib import Path
 # -----------------------------------------------------------------------------
 BASE_DIR = Path(__file__).parent
 
-DATA_RAW       = BASE_DIR / "data" / "raw" / "vs_ginecologica_1xlsx.xlsx"
+DATA_RAW       = BASE_DIR / "data" / "raw" / "vs ginecologica_1xlsx.xlsx"
 DATA_PROCESSED = BASE_DIR / "data" / "processed" / "dataset_clean.csv"
 RESULTS_DIR    = BASE_DIR / "data" / "results"
 PROMPTS_DIR    = BASE_DIR / "prompts"
