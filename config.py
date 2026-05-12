@@ -49,7 +49,7 @@ OLLAMA_BASE_URL = "http://localhost:11434"
 # -----------------------------------------------------------------------------
 # None = usa tutto il dataset (6068 righe)
 # Numero intero = campione utilizzato per test
-SAMPLE_SIZE = 100
+SAMPLE_SIZE = 20
 
 # Seed per riproducibilità del campione
 RANDOM_SEED = 11
